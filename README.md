@@ -18,4 +18,4 @@ Here I used the concepts of Trigonometry and Computer Vision along with the capa
 
 Requirements: python3 , numpy , opencv installed on your system.
 
-<img src="https://raw.githubusercontent.com/infoaryan/Analog-clock-using-OpenCV/master/Screenshot.png" width="400" height="400">
+<img src="Analog_Clock/Screenshot.png" width="400" height="400">
